@@ -25,7 +25,7 @@ All changes will be reviewed by the technical standards team and approved throug
 ## 1. Code Sharing Practices
 
 ### 1.1 Version Control
-- Use **Git** with clear branch naming: `feature-...`, `fix-...`, `chore-...`
+- Use **Git** with clear branch naming: `feature/...`, `fix/...`, `chore/...`
 - Open PRs early; require review and status checks before merge to `main`/`develop`
 - Write meaningful commit messages
 
