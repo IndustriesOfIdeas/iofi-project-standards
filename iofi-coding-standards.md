@@ -57,7 +57,7 @@ All changes will be reviewed by the technical standards team and approved throug
 - **Restricted/Sensitive** — PII/PHI; approvals + controls required
 
 ### 2.2 Privacy & Security
-- De-identify/anonymize data
+- De-identify data
 - Comply with GDPR/HIPAA/IRB and org policies
 - Secure transfer & storage (SFTP/HTTPS, encrypted buckets, least-privilege ACLs)
 
