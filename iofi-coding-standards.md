@@ -18,15 +18,13 @@ This document outlines coding standards and data sharing practices for **interna
 - **Examples**: Add code examples or use cases to existing sections
 - **Discussion**: Use GitHub Discussions for broader conversations about standards
 
-All changes will be reviewed by the technical standards team and approved through project governance processes.
-
 ---
 
 ## 1. Code Sharing Practices
 
 ### 1.1 Version Control
-- Use **Git** with clear branch naming: `feature/...`, `fix/...`, `chore/...`
-- Open PRs early; require review and status checks before merge to `main`/`develop`
+- Use **Git** with clear branch naming: `feature/...`, `fix/...`
+- Use PRs; require review and status checks before merge to `main`/`develop`
 - Write meaningful commit messages
 
 ### 1.2 Documentation
@@ -74,8 +72,6 @@ All changes will be reviewed by the technical standards team and approved throug
 ### 2.5 Licensing & Attribution
 - Attach data license (e.g., CC BY, CC BY-NC) and usage terms
 - Credit sources and contributors; provide citation examples
-
-**Future consideration**: Machine-readable metadata formats (DDI, Croissant) for public data releases.
 
 ---
 
